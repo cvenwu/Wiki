@@ -16,6 +16,4 @@
 - ![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/19/C66643D6-F323-47D6-8D15-E9811D233C47-1582094879031.png)![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/22/C7D1C17E-9B83-49E2-A583-34C45C3662C4-1582330286074.png)![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/24/698E6F69-6C30-456F-8DFC-85BBE2469DE3-1582504903984.png)![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/24/73057DF6-2F93-4243-9DED-FE82AE129F9E-1582507616334.png) ![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/24/936AF1DD-7C51-494E-AD8C-D29949588148-1582509259365.png)
 
 
-人的因素指人的各种特征
-交互软件是交互计算机系统的核心
-交互设备包括各种数字，图像，声音，触觉等具有一定人为操作功能的设备
+![title](https://raw.githubusercontent.com/sivanWu0222/ImageHosting/master/gitnote/2020/02/25/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-02-25%20%E4%B8%8A%E5%8D%8810.22.49-1582597404984.png)
